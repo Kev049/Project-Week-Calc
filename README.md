@@ -1,2 +1,3 @@
 # Project-Week-Calc
-All-in-1 Calculator Application
+A website for an "All-in-1" Calculator. 
+It deals with area, surface area, volume and possibly trignometric functions.
