@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>All-In-1 Calc</title>
+
+    <!-- Master CSS File & Animation Library CSS File -->
+    <link rel="stylesheet" type="text/css" href="CSS/styles.css">
+    <link rel="stylesheet" type="text/css" href="CSS/styles-2d.css">
+
+    <!-- ANIMATE.CSS???? -->
+
+    <!-- Fonts -->
+
+    <link href="https://fonts.googleapis.com/css?family=Quantico:400,400i" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Play" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Fira+Sans" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+
+    <!-- jQuery -->
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+
+  </head>
+  <body>
+    <script src="script.js" ></script>
+
+    <header>
+      <ul id="first-header">
+        <li>
+          <img class="img-header-calc" id="first-calc" src="images/calculator.png">
+        </li>
+        <li id="title">
+          All-in-1 Calc
+        </li>
+        <li>
+          <img class="img-header-calc" id="second-calc" src="images/calculator.png">
+        </li>
+      </ul>
+      <ul id="second-header">
+        <li id="header-2d">
+          <a href="index.html">2D Shapes</a>
+        </li>
+        <li id="header-3d">
+          <a href="3d-shapes.html">3D Shapes</a>
+        </li>
+        <li id="header-trig">
+          <a href="trig.html">Trignometry</a>
+        </li>
+      </ul>
+    </header>
+
+    <div id="shapes-2d">
+
+      <div id="full-title-2d">
+        <img src="images/dbl-line.png" class="dbl-line" id="first-1">
+        <div id="title-2d">2D SHAPES</div>
+        <img src="images/dbl-line.png" class="dbl-line" id="first-2">
+      </div>
+
+      <div id="square">
+        <div class="title-shape" id="title-square">
+          Square:
+        </div>
+        <img src="images/square.png" id="img-square">
+
+        <div id="sqr-input">
+          <input size="25" type="text" placeholder="Side 1 Value" id="sqr_side1"><br><br>
+          <button id= "sqr-button" class="btn" onclick="sqrCalc();">Calc Area</button> <br>
+          <input size="25" type="text" id="sqr_result" placeholder="Area of the Square">
+        </div>
+      </div>
+
+      <div id="rectangle">
+        <div class="title-shape" id="title-rectangle">
+          Rectangle:
+        </div>
+        <img src="images/rectangle.png" id="img-rectangle">
+
+        <div id="rec-input">
+          <input size="25" type="text" placeholder="Side 1 Value" id="rec_side1"><br><br>
+          <input size="25" type="text" placeholder="Side 2 Value" id="rec_side2"><br><br>
+          <button id= "rec-button" class="btn" onclick="recCalc();">Calc Area</button> <br>
+          <input size="25" type="text" id="rec_result" placeholder="Area of the Rectangle">
+        </div>
+      </div>
+
+      <div id="triangle">
+        <div class="title-shape" id="title-triangle">
+          Triangle:
+        </div>
+        <img src="images/triangle.png" id="img-triangle">
+
+        <div id="tri-input">
+          <input size="25" type="text" placeholder="Base" id="tri_base"><br><br>
+          <input size="25" type="text" placeholder="Height" id="tri_height"><br><br>
+          <button id= "rec-button" class="btn" onclick="triCalc();">Calc Area</button> <br>
+          <input size="25" type="text" id="tri_result" placeholder="Area of the Triangle">
+        </div>
+      </div>
+
+      <div id="circle">
+        <div class="title-shape" id="title-circle">
+          Circle:
+        </div>
+        <img src="images/circle.png" id="img-circle">
+
+        <div id="cir-input">
+          <input size="25" type="text" placeholder="Value of Radius" id="cir_radius"><br><br>
+          <button id= "cir-button" class="btn" onclick="cirCalc();">Calc Area</button> <br>
+          <input size="25" type="text" id="cir_result" placeholder="Area of the Circle">
+        </div>
+      </div>
+
+      <div id="trapezoid">
+        <div class="title-shape" id="title-trapezoid">
+          Trapezoid:
+        </div>
+        <img src="images/trapezoid.png" id="img-trapezoid">
+
+        <div id="trap-input">
+          <input size="25" type="text" placeholder="Value of b1" id="trap_b1"><br><br>
+          <input size="25" type="text" placeholder="Value of b2" id="trap_b2"><br><br>
+          <input size="25" type="text" placeholder="Height" id="trap_height"><br><br>
+          <button id= "trap-button" class="btn" onclick="trapCalc();">Calc Area</button> <br>
+          <input size="25" type="text" id="trap_result" placeholder="Area of the Trapezoid">
+        </div>
+      </div>
+
+    </div>
+
+    <footer>
+      <div id="footer-text">© 2018 | All Rights Reserved</div>
+    </footer>
+  </body>
+</html>

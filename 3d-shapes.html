@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>All-In-1 Calc</title>
+
+    <!-- Master CSS File & Animation Library CSS File -->
+    <link rel="stylesheet" type="text/css" href="CSS/styles.css">
+    <link rel="stylesheet" type="text/css" href="CSS/styles-3d.css">
+
+    <!-- ANIMATE.CSS???? -->
+
+    <!-- Fonts -->
+
+    <link href="https://fonts.googleapis.com/css?family=Quantico:400,400i" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Play" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Fira+Sans" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+
+    <!-- jQuery -->
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+
+  </head>
+  <body>
+    <script src="script.js" ></script>
+
+    <header>
+      <ul id="first-header">
+        <li>
+          <img class="img-header-calc" id="first-calc" src="images/calculator.png">
+        </li>
+        <li id="title">
+          All-in-1 Calc
+        </li>
+        <li>
+          <img class="img-header-calc" id="second-calc" src="images/calculator.png">
+        </li>
+      </ul>
+      <ul id="second-header">
+        <li id="header-2d">
+          <a href="index.html">2D Shapes</a>
+        </li>
+        <li id="header-3d">
+          <a href="3d-shapes.html">3D Shapes</a>
+        </li>
+        <li id="header-trig">
+          <a href="trig.html">Trignometry</a>
+        </li>
+      </ul>
+    </header>
+
+    <div id="shapes-3d">
+
+      <div id="full-title-3d">
+        <img src="images/dbl-line.png" class="dbl-line" id="second-1">
+        <div id="title-3d">3D SHAPES</div>
+        <img src="images/dbl-line.png" class="dbl-line" id="second-2">
+      </div>
+
+      <div id="cylinder">
+
+        <div class="title-shape" id="title-cylinder">
+          Cylinder:
+        </div>
+        <img src="images/cylinder.png" id="img-cylinder">
+
+        <div id="cyl-input">
+          <input size="25" type="text" placeholder="Radius" id="cyl_radius"><br><br>
+          <input size="25" type="text" placeholder="Height" id="cyl_height"><br><br>
+
+          <button id= "cyl-button" class="btn" onclick="cylCalc();">Calc Area & Volume</button> <br>
+
+          <input size="25" type="text" id="cyl_area" placeholder="Surface Area of the Cylinder"><br><br>
+          <input size="25" type="text" id="cyl_vol" placeholder="Volume of the Cylinder">
+
+        </div>
+      </div>
+
+      <div id="cone">
+
+        <div class="title-shape" id="title-cone">
+          Solid Cone:
+        </div>
+        <img src="images/cone.png" id="img-cone">
+
+        <div id="cone-input">
+          <input size="25" type="text" placeholder="Radius" id="cone_radius"><br><br>
+          <input size="25" type="text" placeholder="Height (Req for Vol)" id="cone_height"><br><br>
+          <input size="25" type="text" placeholder="Slant Height (Req for S.A.)" id="cone_slant-height"><br><br>
+
+          <button id= "cone-button-area" class="btn" onclick="coneCalcArea();">Calc Area</button> <br>
+          <button id= "cone-button-vol" class="btn" onclick="coneCalcVol();">Calc Volume</button> <br>
+
+          <input size="25" type="text" id="cone_area" placeholder="Surface Area of the Cone"><br><br>
+          <input size="25" type="text" id="cone_vol" placeholder="Volume of the Cone">
+
+        </div>
+      </div>
+
+      <div id="cone">
+
+        <div class="title-shape" id="title-pyramid">
+          Quadrilateral-Based Pyramid:
+        </div>
+        <img src="images/pyramid.png" id="img-pyramid">
+
+        <div id="pyr-input">
+
+          <input size="25" type="text" placeholder="Side 1 Value" id="pyr_s1"><br><br>
+          <input size="25" type="text" placeholder="Side 2 Value" id="pyr_s2"><br><br>
+          <input size="25" type="text" placeholder="Height (Req for Vol)" id="pyr_height"><br><br>
+          <input size="25" type="text" placeholder="Slant Height (Req for S.A.)" id="pyr_slant-height"><br><br>
+
+          <button id= "pyr-button-area" class="btn" onclick="pyrCalcArea();">Calc Area</button> <br>
+          <button id= "pyr-button-vol" class="btn" onclick="pyrCalcVol();">Calc Volume</button> <br>
+
+          <input size="25" type="text" id="pyr_area" placeholder="Surface Area of the Pyramid"><br><br>
+          <input size="25" type="text" id="pyr_vol" placeholder="Volume of the Pyramid">
+
+        </div>
+      </div>
+    </div>
+    <footer>
+      <div id="footer-text">© 2018 | All Rights Reserved</div>
+    </footer>
+  </body>
+</html>

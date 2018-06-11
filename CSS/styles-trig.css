@@ -1,0 +1,19 @@
+#header-trig {
+    border: 3px solid black;
+    padding: 0px;
+    border-radius: 3px;
+    padding: 2px 5px 3px 5px;
+    border-color: #27347d
+}
+
+#temp {
+    font-size: 25px;
+    color: #1e336b;
+    margin-top: 50px;
+    font-style: italic;
+    margin-left: -5px;
+}
+
+footer {
+    margin-top: 291px;
+}

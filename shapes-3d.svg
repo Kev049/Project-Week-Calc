@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="shapes-3d.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="-1376.7557"
+     inkscape:cy="260.66649"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showborder="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-others="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.84666669;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 461.7316,-92.096763 V 180.04609 c 0,0 -3.01235,-35.43805 103.89546,-37.57621 0,0 105.88132,1.7295 103.23549,37.41774"
+       id="path819"
+       inkscape:connector-curvature="0" />
+    <ellipse
+       style="opacity:1;fill:#86bef4;fill-opacity:1;stroke:#000000;stroke-width:0.52916667;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path815"
+       cx="-233.12849"
+       cy="152.40758"
+       rx="35.642033"
+       ry="12.567818"
+       inkscape:export-filename="C:\Users\kevin\Desktop\coding\Project-Week-Calc\images\cylinder.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.52916667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -268.89335,152.41397 v 92.39586"
+       id="path827"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\kevin\Desktop\coding\Project-Week-Calc\images\cylinder.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="opacity:1;fill:#86bef4;fill-opacity:1;stroke:#000000;stroke-width:0.52916667;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -268.89785,198.63514 0.005,-44.63967 v 0 c 1.41012,2.69973 5.70336,5.78145 11.36854,7.63555 15.60702,5.10788 40.13618,4.35717 52.93076,-1.50353 3.46372,-1.58662 6.76844,-4.36362 7.11378,-6.63617 0.0906,-0.59602 -0.2542,1.16598 0.0176,21.6659 0.0803,6.05168 0.006,13.60652 -0.14688,23.38625 -0.24095,15.45689 -0.0628,29.54621 -0.21203,44.53281 -0.80479,-0.36888 -0.293,-0.31594 -0.61306,-0.81259 -6.14767,-3.86123 -9.17626,-7.34404 -19.36479,-9.06648 -5.47328,-0.92528 -7.8057,-1.09319 -15.27095,-1.09943 -7.14519,-0.007 -9.13402,0.11325 -14.02437,0.84065 -7.39036,1.09928 -13.92037,3.32599 -17.68501,5.82872 -1.66481,0.95563 -3.66596,3.46527 -3.86262,4.62798 -0.35524,0.78271 -0.25998,-0.36809 -0.2555,-44.75999 z"
+       id="path831"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sccssssscccccccs"
+       inkscape:export-filename="C:\Users\kevin\Desktop\coding\Project-Week-Calc\images\cylinder.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.52916667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -197.50953,152.41396 v 92.39587"
+       id="path829"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\kevin\Desktop\coding\Project-Week-Calc\images\cylinder.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g1031"
+       inkscape:export-filename="C:\Users\kevin\Desktop\coding\Project-Week-Calc\images\cylinder.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path849"
+         d="m -268.89335,244.80981 c 0,0 -0.46685,7.69962 17.87585,10.94037 0,0 14.48715,2.53892 23.0094,1.49076 0,0 18.38847,-1.88258 22.19199,-4.52511 0,0 8.08273,-3.09627 8.11213,-7.90601"
+         style="fill:#86bef4;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:#86bef4;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.17499982,3.17499982;stroke-dashoffset:0;stroke-opacity:1"
+         d="m -268.89335,244.97177 c 0,0 -0.46685,-8.27713 17.87585,-11.76096 0,0 14.48715,-2.72935 23.0094,-1.60257 0,0 18.38847,2.02378 22.19199,4.86452 0,0 8.08273,3.32851 8.11213,8.499"
+         id="path851"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.52916667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.17500001,3.17500001;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -233.14496,152.43999 h 35.60001"
+       id="path885"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\kevin\Desktop\coding\Project-Week-Calc\images\cylinder.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.52916667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.17500001,3.17500001;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -233.14496,152.43999 v 91.97278"
+       id="path893"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\kevin\Desktop\coding\Project-Week-Calc\images\cylinder.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.63302612px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.52916667;stroke-miterlimit:4;stroke-dasharray:none"
+       x="-219.27806"
+       y="157.37123"
+       id="text897"
+       inkscape:export-filename="C:\Users\kevin\Desktop\coding\Project-Week-Calc\images\cylinder.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan895"
+         x="-219.27806"
+         y="157.37123"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.63302612px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.52916667;stroke-miterlimit:4;stroke-dasharray:none">r</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.63302612px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.52916667;stroke-miterlimit:4;stroke-dasharray:none"
+       x="-232.53148"
+       y="202.9079"
+       id="text901"
+       inkscape:export-filename="C:\Users\kevin\Desktop\coding\Project-Week-Calc\images\cylinder.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan899"
+         x="-232.53148"
+         y="202.9079"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.63302612px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.52916667;stroke-miterlimit:4;stroke-dasharray:none">h</tspan></text>
+    <path
+       style="fill:#86bef4;fill-opacity:1;stroke:#000000;stroke-width:0.52916667;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m -419.43108,258.1335 43.59978,-103.26693 43.41045,103.26693"
+       id="path909"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\kevin\Desktop\coding\Project-Week-Calc\images\cone.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="opacity:1;fill:#86bef4;fill-opacity:1;stroke:#000000;stroke-width:0.52916667;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path903"
+       cx="-375.91226"
+       cy="258.05313"
+       rx="43.304325"
+       ry="9.1443682"
+       inkscape:export-filename="C:\Users\kevin\Desktop\coding\Project-Week-Calc\images\cone.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.52916667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.17500001,3.17500001;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -375.83188,258.1335 h 43.41103"
+       id="path911"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\kevin\Desktop\coding\Project-Week-Calc\images\cone.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.52916667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.05833334,1.05833334;stroke-dashoffset:0;stroke-opacity:1"
+       d="M -375.83128,154.86657 V 267.05692"
+       id="path913"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\kevin\Desktop\coding\Project-Week-Calc\images\cone.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.63998604px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31833273"
+       x="-375.17059"
+       y="213.79341"
+       id="text917"
+       inkscape:export-filename="C:\Users\kevin\Desktop\coding\Project-Week-Calc\images\cone.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan915"
+         x="-375.17059"
+         y="213.79341"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.63998604px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.31833273">h</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.63998604px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31833273"
+       x="-357.12006"
+       y="263.56772"
+       id="text921"
+       inkscape:export-filename="C:\Users\kevin\Desktop\coding\Project-Week-Calc\images\cone.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan919"
+         x="-357.12006"
+         y="263.56772"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.63998604px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.31833273">r</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.63998604px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31833273"
+       x="-350.9263"
+       y="212.21182"
+       id="text917-0"
+       inkscape:export-filename="C:\Users\kevin\Desktop\coding\Project-Week-Calc\images\cone.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan915-1"
+         x="-350.9263"
+         y="212.21182"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.63998604px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.31833273">l</tspan></text>
+    <path
+       style="opacity:1;fill:#86bef4;fill-opacity:1;stroke:#000000;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -256.26785,404.87424 51.02678,-101.67559 58.39732,72.00445 -37.60863,30.23809 z"
+       id="path941"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\kevin\Desktop\coding\Project-Week-Calc\images\pyramid.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -205.24107,303.19865 20.78869,102.24254"
+       id="path943"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\kevin\Desktop\coding\Project-Week-Calc\images\pyramid.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.11666667, 2.11666667;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -205.24107,303.19865 -13.91994,71.67734 -37.10684,29.99825"
+       id="path945"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\kevin\Desktop\coding\Project-Week-Calc\images\pyramid.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.11666667, 2.11666667;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -219.16101,374.87599 72.31726,0.32711"
+       id="path947"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\kevin\Desktop\coding\Project-Week-Calc\images\pyramid.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.52916667;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:2.11666667,2.11666667;stroke-dashoffset:0"
+       d="m -205.24107,303.19866 v 85.47478"
+       id="path949"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\kevin\Desktop\coding\Project-Week-Calc\images\pyramid.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-138.44562"
+       y="338.42676"
+       id="text953"><tspan
+         sodipodi:role="line"
+         id="tspan951"
+         x="-138.44562"
+         y="348.08224"
+         style="stroke-width:0.26458332" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.63998604px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31833273"
+       x="-174.38229"
+       y="339.25772"
+       id="text921-4"
+       inkscape:export-filename="C:\Users\kevin\Desktop\coding\Project-Week-Calc\images\pyramid.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan919-7"
+         x="-174.38229"
+         y="339.25772"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.63998604px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.31833273">l</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.63998604px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31833273"
+       x="-204.96642"
+       y="360.00052"
+       id="text921-4-55"
+       inkscape:export-filename="C:\Users\kevin\Desktop\coding\Project-Week-Calc\images\pyramid.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan919-7-0"
+         x="-204.96642"
+         y="360.00052"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.63998604px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.31833273">h</tspan></text>
+    <g
+       id="g1025"
+       transform="translate(-98.084822,64.444941)"
+       inkscape:export-filename="C:\Users\kevin\Desktop\coding\Project-Week-Calc\images\pyramid.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <text
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\kevin\Desktop\coding\Project-Week-Calc\images\cone.png"
+         id="text921-4-5"
+         y="346.01538"
+         x="-123.89053"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.63998604px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31833273"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.63998604px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.31833273"
+           y="346.01538"
+           x="-123.89053"
+           id="tspan919-7-3"
+           sodipodi:role="line">s</tspan></text>
+      <text
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\kevin\Desktop\coding\Project-Week-Calc\images\cone.png"
+         id="text921-4-2"
+         y="348.37772"
+         x="-120.48873"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31833273"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.31833273"
+           y="348.37772"
+           x="-120.48873"
+           id="tspan919-7-5"
+           sodipodi:role="line">1</tspan></text>
+    </g>
+    <g
+       id="g1019"
+       transform="translate(-54.61756,44.601191)"
+       inkscape:export-filename="C:\Users\kevin\Desktop\coding\Project-Week-Calc\images\pyramid.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.63998604px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31833273"
+         x="-105.74767"
+         y="346.01538"
+         id="text993"
+         inkscape:export-filename="C:\Users\kevin\Desktop\coding\Project-Week-Calc\images\cone.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><tspan
+           sodipodi:role="line"
+           id="tspan991"
+           x="-105.74767"
+           y="346.01538"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.63998604px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.31833273">s</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31833273"
+         x="-102.34587"
+         y="348.49118"
+         id="text1013"
+         inkscape:export-filename="C:\Users\kevin\Desktop\coding\Project-Week-Calc\images\cone.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><tspan
+           sodipodi:role="line"
+           id="tspan1011"
+           x="-102.34587"
+           y="348.49118"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.31833273">2</tspan></text>
+    </g>
+  </g>
+</svg>

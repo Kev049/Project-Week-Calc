@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:export-filename="C:\Users\kevin\Desktop\coding\Project-Week-Calc\images\rectangle.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="shapes-custom.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient4560"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#800000;stop-opacity:1;"
+         offset="0"
+         id="stop4558" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="650.44613"
+     inkscape:cy="123.27808"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showborder="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#edf4fb;fill-opacity:1;stroke-width:0.04853174"
+       id="rect4556"
+       width="63.311359"
+       height="9.5274382"
+       x="-146.98117"
+       y="53.057934" />
+    <path
+       style="opacity:0.65899999;fill:#002549;fill-opacity:1;stroke:#3e3e85;stroke-width:0.26891965;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -145.59814,56.1313 h 59.315989"
+       id="path4545"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4564"
+       d="m -145.59814,58.697054 h 59.315989"
+       style="opacity:0.65899999;fill:#002549;fill-opacity:1;stroke:#3e3e85;stroke-width:0.26891965;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="fill:#edf4fb;fill-opacity:1;stroke-width:0.29247612"
+       id="rect4556-1"
+       width="194.13509"
+       height="112.84508"
+       x="26.206423"
+       y="217.09335"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\kevin\Desktop\coding\Project-Week-Calc\images\trapezoid.png" />
+    <rect
+       style="opacity:0.65899999;fill:#85bdf4;fill-opacity:1;stroke:#000000;stroke-width:0.76094294;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4581"
+       width="104.5389"
+       height="104.5389"
+       x="-160.59421"
+       y="73.441246"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g4645"
+       transform="matrix(2.8296293,0,0,2.8296293,89.100869,-256.78485)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <text
+         id="text4585"
+         y="138.08148"
+         x="-51.038986"
+         style="font-style:normal;font-weight:normal;font-size:2.15135717px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.05378393"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.05378393"
+           y="138.08148"
+           x="-51.038986"
+           id="tspan4583"
+           sodipodi:role="line">s</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:2.15135717px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.05378393"
+         x="-48.591587"
+         y="139.60281"
+         id="text4589"><tspan
+           sodipodi:role="line"
+           id="tspan4587"
+           x="-48.591587"
+           y="139.60281"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.05378393">1</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-44.780727"
+       y="140.23436"
+       id="text4603"><tspan
+         sodipodi:role="line"
+         id="tspan4601"
+         x="-44.780727"
+         y="149.88986"
+         style="stroke-width:0.26458332" /></text>
+    <rect
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       y="76.201019"
+       x="185.61578"
+       height="112.09856"
+       width="117.17271"
+       id="rect4666"
+       style="fill:#edf4fb;fill-opacity:1;stroke-width:0.22646981"
+       inkscape:export-filename="C:\Users\kevin\Desktop\coding\Project-Week-Calc\images\triangle.png" />
+    <rect
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       y="73.441246"
+       x="-29.904766"
+       height="104.5389"
+       width="162.18903"
+       id="rect4668"
+       style="opacity:0.65899999;fill:#85bdf4;fill-opacity:1;stroke:#000000;stroke-width:0.9477375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       transform="matrix(2.8296293,0,0,2.8296293,284.62795,-256.78485)"
+       id="g4678">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:2.15135717px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.05378393"
+         x="-51.038986"
+         y="138.08148"
+         id="text4672"><tspan
+           sodipodi:role="line"
+           id="tspan4670"
+           x="-51.038986"
+           y="138.08148"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.05378393">s</tspan></text>
+      <text
+         id="text4676"
+         y="139.60281"
+         x="-48.591587"
+         style="font-style:normal;font-weight:normal;font-size:2.15135717px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.05378393"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.05378393"
+           y="139.60281"
+           x="-48.591587"
+           id="tspan4674"
+           sodipodi:role="line">1</tspan></text>
+    </g>
+    <g
+       id="g4698"
+       transform="translate(-6.8791667,-25.4)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <text
+         id="text4682"
+         y="213.57414"
+         x="51.571117"
+         style="font-style:normal;font-weight:normal;font-size:6.08754349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15218858"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.97168541px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.15218858"
+           y="213.57414"
+           x="51.571117"
+           id="tspan4680"
+           sodipodi:role="line">s</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:5.31485033px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13287126"
+         x="59.010281"
+         y="217.13637"
+         id="text4686"><tspan
+           sodipodi:role="line"
+           id="tspan4684"
+           x="59.010281"
+           y="217.13637"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.84372282px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.13287126">2</tspan></text>
+    </g>
+    <path
+       style="fill:#a9d0f7;stroke:#515356;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 186.71449,176.88907 244.3806,77.008436 302.04671,176.88907 Z"
+       id="path4700"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\kevin\Desktop\coding\Project-Week-Calc\images\triangle.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:1.05833327,2.11666655;stroke-dashoffset:0"
+       d="M 244.3806,77.008436 V 176.74687"
+       id="path4726"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\kevin\Desktop\coding\Project-Week-Calc\images\triangle.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="opacity:1;fill:#a9d0f7;fill-opacity:1;stroke:#515356;stroke-width:0.82191598;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4757"
+       cx="-101.02788"
+       cy="251.10463"
+       r="52.306416"
+       inkscape:export-filename="C:\Users\kevin\Desktop\coding\Project-Week-Calc\images\circle.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:0.52916667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.17500001,3.17500001;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -101.02788,251.09506 h 52.387552"
+       id="path4763"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\kevin\Desktop\coding\Project-Week-Calc\images\circle.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       id="text4672-3-9"
+       y="260.65271"
+       x="-79.702591"
+       style="font-style:normal;font-weight:normal;font-size:5.05652046px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12641299"
+       xml:space="preserve"
+       inkscape:export-filename="C:\Users\kevin\Desktop\coding\Project-Week-Calc\images\circle.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.2666254px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.12641299"
+         y="260.65271"
+         x="-79.702591"
+         id="tspan4670-4-9"
+         sodipodi:role="line">r</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-4.6302085"
+       y="278.61145"
+       id="text4785"><tspan
+         sodipodi:role="line"
+         id="tspan4783"
+         x="-4.6302085"
+         y="288.26694"
+         style="stroke-width:0.26458332" /></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4798"
+       d="M 75.035481,231.49759 H 219.63219 l -48.1387,83.37869 H 26.896772 Z"
+       style="fill:#86bef4;fill-opacity:0.65882353;stroke:#000000;stroke-width:0.80331504;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\kevin\Desktop\coding\Project-Week-Calc\images\trapezoid.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.50207186;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.01243137, 3.01243137;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 75.035481,231.49759 v 83.44145"
+       id="path4811"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\kevin\Desktop\coding\Project-Week-Calc\images\trapezoid.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g4936"
+       transform="matrix(0.94879729,0,0,0.94879729,-36.364308,21.535834)"
+       inkscape:export-filename="C:\Users\kevin\Desktop\coding\Project-Week-Calc\images\trapezoid.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <text
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\kevin\Desktop\coding\Project-Week-Calc\images\triangle.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:5.07693958px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12692347"
+         x="185.57088"
+         y="216.2343"
+         id="text4672-3-8"><tspan
+           sodipodi:role="line"
+           id="tspan4670-4-5"
+           x="185.57088"
+           y="216.2343"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.32019806px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.12692347">b</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:5.31485033px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13287126"
+         x="192.98016"
+         y="220.27118"
+         id="text4686-9"><tspan
+           sodipodi:role="line"
+           id="tspan4684-0"
+           x="192.98016"
+           y="220.27118"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.84372282px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.13287126">2</tspan></text>
+    </g>
+    <g
+       id="g4930"
+       transform="matrix(0.94879729,0,0,0.94879729,-38.065481,120.59644)"
+       inkscape:export-filename="C:\Users\kevin\Desktop\coding\Project-Week-Calc\images\trapezoid.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <text
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\kevin\Desktop\coding\Project-Week-Calc\images\triangle.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:5.07693958px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12692347"
+         x="145.45036"
+         y="216.33482"
+         id="text4672-3"><tspan
+           sodipodi:role="line"
+           id="tspan4670-4"
+           x="145.45036"
+           y="216.33482"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.32019806px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.12692347">b</tspan></text>
+      <text
+         id="text4676-7"
+         y="220.54378"
+         x="152.40831"
+         style="font-style:normal;font-weight:normal;font-size:5.91376495px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.14784411"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.72760868px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.14784411"
+           y="220.54378"
+           x="152.40831"
+           id="tspan4674-6"
+           sodipodi:role="line">1</tspan></text>
+    </g>
+    <text
+       id="text4672-3-6"
+       y="279.16415"
+       x="76.156776"
+       style="font-style:normal;font-weight:normal;font-size:4.30722857px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.10768069"
+       xml:space="preserve"
+       inkscape:export-filename="C:\Users\kevin\Desktop\coding\Project-Week-Calc\images\trapezoid.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.30073166px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.10768069"
+         y="279.16415"
+         x="76.156776"
+         id="tspan4670-4-3"
+         sodipodi:role="line">h</tspan></text>
+  </g>
+</svg>
